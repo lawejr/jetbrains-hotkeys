@@ -25,8 +25,6 @@
 | ------- | -------- | ------- | ----------- |
 | Find | `CMD + F` | `Ctrl + F`  | Поиск по файлу  |
 | Replace | `CMD + R` | `Ctrl + R`  | Замена найденных символов  |
-| Find | `CMD + F` | `Ctrl + F`  | Поиск по файлу  |
-| Replace | `CMD + R` | `Ctrl + R`  | Замена найденных символов  |
 | Duplicate Lines | `CMD + D` | `Ctrl + D` | Создать дубликат текущей строки |
 | Safe Delete | `CMD + Backspace` | `Ctrl + Y` | Удаление всей текущей строки |
 | Select block | `ALT + up` | `Ctrl-W`  | Выделить блок кода (слово/строка/документ)|
@@ -35,4 +33,5 @@
 | Line comment | `CMD + /` | `Ctrl + /`  |  Добавить строчный комментарий |
 | Block comment | `CMD + Shift + /` | `Ctrl + Shift + /`  | Добавить блочный комментарий |
 | Reformat code | `CMD + ALT + L` | `Ctrl + ALT + L`  | Восстанавливает форматирование кода, согласно настройкам |
+| Multi select | `ALT + Click` | `Ctrl + ALT + L`  | Восстанавливает форматирование кода, согласно настройкам |
 
