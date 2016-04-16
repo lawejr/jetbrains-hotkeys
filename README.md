@@ -21,6 +21,8 @@
 
 ## Редактирование
 
+| Команда | Mac OS X | Windows/Linux | Description |
+| ------- | -------- | ------- | ----------- |
 | Find | `CMD + F` | `Ctrl + F`  | Поиск по файлу  |
 | Replace | `CMD + R` | `Ctrl + R`  | Замена найденных символов  |
 | Find | `CMD + F` | `Ctrl + F`  | Поиск по файлу  |
