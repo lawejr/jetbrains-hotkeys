@@ -15,8 +15,8 @@
 | Search | `Double Shift` | `Double Shift`  | Открыть окно поиска по проекту  |
 | New | `CMD + N` | `Ctrl + N`  | Создать новый файл/Директорию |
 | Save | `CMD + S` | `Ctrl + S`  | Сохранить изменения в текущем файле |
-| Save As | `Shift + CMD + S` | `Ctrl + Shift + S`  | Сохранить изменения в файле с новым именем |
-| Close Tab | `CMD + W` |  `Ctrl + F4` | Закрыть текущую вкладку|
+| Save As | `CMD + Shift + S` | `Ctrl + Shift + S`  | Сохранить изменения в файле с новым именем |
+| Close Tab | `CMD + W` |  `Ctrl + F4` | Закрыть текущую вкладку |
 
 
 ## Редактирование
@@ -34,4 +34,4 @@
 | Block comment | `CMD + Shift + /` | `Ctrl + Shift + /`  | Добавить блочный комментарий |
 | Reformat code | `CMD + ALT + L` | `Ctrl + ALT + L`  | Восстанавливает форматирование кода, согласно настройкам |
 | Multi select | `ALT + Click` | `Ctrl + ALT + L`  | Восстанавливает форматирование кода, согласно настройкам |
-
+| Last Edition Location | `CMD + Shift + Backspace` | `Ctrl + Shift + Backspace`  | Вернуться к предыдущему месту редактирования |
