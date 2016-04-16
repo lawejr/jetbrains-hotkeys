@@ -1,2 +1,36 @@
-# PhpStorm-hotkeys
-Самые часто-используемые клавиши IDE PhpStorm
+# PhpStorm/WebStorm Горячие клавиши.
+
+Список самых часто-используемых горячих клавиш для IDE [PhpStorm](https://www.jetbrains.com/phpstorm/)/[WebStorm](https://www.jetbrains.com/webstorm/). Можно забирайте себе(Fork) или добавляйте в избранное(Star).
+Эта страница написана специально в дополнение к моему курсу по обзору данных редакторов на сайте сообщества сообщества [Loftblog](http://loftblog.ru/material/1-ustanovka-pervye-shagi/) и на [YouTube](https://www.youtube.com/playlist?list=PLY4rE9dstrJzAnXFt9m48Q0V5_2kVK1Qt) канале.
+Сочетания клавиш указаны установленные по умолчанию. Посмотреть назначенные и изменить их можно в меню Preferences > Keymap.
+Сочетания клавишь для Windows взяты с просторов интернета. Сам я работаю на Mac и проверить могу только на этой системе. Если Вы найдете ошибки, пожалуйста отправляйте запрос на исправление через GitHub(Pull request) или пишите в комментариях к видео. 
+
+
+## Общие
+
+| Команда | Mac OS X | Windows/Linux | Description |
+| ------- | -------- | ------- | ----------- |
+| Preferences/Settings | `CMD + ,` | `Ctrl + Alt + S`  | Открыть настройки программы |
+| Switch tabs | `Ctrl + Tab` | `Ctrl + Tab`  | Переключение между открытыми вкладками |
+| Search | `Double Shift` | `Double Shift`  | Открыть окно поиска по проекту  |
+| New | `CMD + N` | `Ctrl + N`  | Создать новый файл/Директорию |
+| Save | `CMD + S` | `Ctrl + S`  | Сохранить изменения в текущем файле |
+| Save As | `Shift + CMD + S` | `Ctrl + Shift + S`  | Сохранить изменения в файле с новым именем |
+| Close Tab | `CMD + W` |  `Ctrl + F4` | Закрыть текущую вкладку|
+
+
+## Редактирование
+
+| Find | `CMD + F` | `Ctrl + F`  | Поиск по файлу  |
+| Replace | `CMD + R` | `Ctrl + R`  | Замена найденных символов  |
+| Find | `CMD + F` | `Ctrl + F`  | Поиск по файлу  |
+| Replace | `CMD + R` | `Ctrl + R`  | Замена найденных символов  |
+| Duplicate Lines | `CMD + D` | `Ctrl + D` | Создать дубликат текущей строки |
+| Safe Delete | `CMD + Backspace` | `Ctrl + Y` | Удаление всей текущей строки |
+| Select block | `ALT + up` | `Ctrl-W`  | Выделить блок кода (слово/строка/документ)|
+| Move Line Up | `CMD + Shift + up` | `???`  | Переместить текущую строку на одну строку вверх |
+| Move Line Down | `CMD + Shift + down` | `???`  | Переместить текущую строку на одну строку вниз |
+| Line comment | `CMD + /` | `Ctrl + /`  |  Добавить строчный комментарий |
+| Block comment | `CMD + Shift + /` | `Ctrl + Shift + /`  | Добавить блочный комментарий |
+| Reformat code | `CMD + ALT + L` | `Ctrl + ALT + L`  | Восстанавливает форматирование кода, согласно настройкам |
+
