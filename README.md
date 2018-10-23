@@ -30,8 +30,8 @@
 | Duplicate Lines | `CMD + D` | `Ctrl + D` | Создать дубликат текущей строки |
 | Safe Delete | `CMD + Backspace` | `Ctrl + Y` | Удаление всей текущей строки |
 | Select block | `ALT + up` | `Ctrl-W`  | Выделить блок кода (слово/строка/документ)|
-| Move Block Up | `CMD + Shift + up` | `Ctrl + Shift + up`  | Переместить текущую строку на одну строку вверх |
-| Move Block Down | `CMD + Shift + down` | `Ctrl + Shift + down`  | Переместить текущую строку на одну строку вниз |
+| Move Block Up | `CMD + Shift + up` | `Ctrl + Shift + up`  | Переместить текущий блок кода вверх, на место предыдущего блока кода |
+| Move Block Down | `CMD + Shift + down` | `Ctrl + Shift + down`  | Переместить текущий блок кода вниз, на место следующего блока кода |
 | Move Line Up | `ALT + Shift + up` | `ALT + Shift + up`  | Переместить текущую строку на одну строку вверх |
 | Move Line Down | `ALT + Shift + down` | `ALT + Shift + down`  | Переместить текущую строку на одну строку вниз |
 | Line comment | `CMD + /` | `Ctrl + /`  |  Добавить строчный комментарий |
